@@ -1,4 +1,4 @@
-const BASE_URL = "https://fatima983-burushaski-backend.hf.space";
+const BASE_URL = "https://fatima983-website-translation-backend.hf.space";
 
 export async function uploadAudio(audioBlob) {
   try {
